@@ -1,0 +1,21 @@
+body {
+  background-repeat : no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 3rem;
+  font-family: 'Belanosima', sans-serif;
+  font-weight: bold;
+  color: rgb(210, 229, 202);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+#clock {
+  text-align: center;
+  font-size: 33px;
+  color : rgb(213, 213, 213);
+  font-weight : 300;
+}
